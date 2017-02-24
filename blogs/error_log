@@ -1,0 +1,1 @@
+[31-Jan-2017 13:06:18 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 558720 bytes) in /home/lifecoach/public_html/blogs/wp-content/themes/Avada/includes/dynamic_css.php on line 5004
