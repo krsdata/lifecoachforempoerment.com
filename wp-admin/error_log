@@ -1,0 +1,5 @@
+[23-Jan-2017 06:35:47 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 262400 bytes) in /home/hospistuff/public_html/lifecoaching/wp-content/themes/Avada/includes/dynamic_css.php on line 2755
+[23-Jan-2017 06:35:52 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 262400 bytes) in /home/hospistuff/public_html/lifecoaching/wp-content/themes/Avada/includes/dynamic_css.php on line 2755
+[01-Feb-2017 08:06:50 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/lifecoach/public_html/wp-includes/media.php on line 2813
+[01-Feb-2017 08:06:50 UTC] PHP Warning:  imageantialias() expects parameter 1 to be resource, boolean given in /home/lifecoach/public_html/wp-includes/class-wp-image-editor-gd.php on line 294
+[01-Feb-2017 08:06:50 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/lifecoach/public_html/wp-includes/class-wp-image-editor-gd.php on line 296

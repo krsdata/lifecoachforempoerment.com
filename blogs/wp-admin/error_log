@@ -1,0 +1,10 @@
+[31-Jan-2017 13:06:41 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 786432 bytes) in /home/lifecoach/public_html/blogs/wp-content/themes/Avada/includes/dynamic_css.php on line 1409
+[03-Feb-2017 10:05:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/lifecoach/public_html/blogs/wp-content/plugins/wp-registration/templates/admin/settings.php on line 67
+[03-Feb-2017 10:40:55 UTC] WP USER :New user registration: Mail send to Admin
+[03-Feb-2017 10:40:55 UTC] WP USER :New user registration: Mail send to anand.dubey6984@gmail.com
+[06-Feb-2017 09:41:28 UTC] WP USER :New user registration: Mail send to Admin
+[06-Feb-2017 09:41:28 UTC] WP USER :New user registration: Mail send to rashmidubey1607@gmail.com
+[07-Feb-2017 11:26:50 UTC] WP USER :New user registration: Mail send to Admin
+[07-Feb-2017 11:26:51 UTC] WP USER :New user registration: Mail send to abcd@gmail.com
+[07-Feb-2017 11:29:39 UTC] WP USER :New user registration: Mail send to Admin
+[07-Feb-2017 11:29:39 UTC] WP USER :New user registration: Mail send to robert@hotmail.com
